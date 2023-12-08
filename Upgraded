@@ -99,4 +99,4 @@
 
 
 
-loadstring(game:HttpGet("https://pastebin.pl/view/raw/eb69cd61"))()
+loadstring(game:HttpGet("https://pastebin.pl/view/raw/f774190f"))()
