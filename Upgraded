@@ -102,6 +102,47 @@
 --loadstring(game:HttpGet("https://pastebin.pl/view/raw/f774190f"))()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 local vu = game:GetService("VirtualUser")
 game:GetService("Players").LocalPlayer.Idled:connect(function()
    vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
@@ -120,7 +161,8 @@ end)
   game.Players.LocalPlayer.Name ==  "OospDragon2017" or 
   game.Players.LocalPlayer.Name ==  "tungcto3" or 
   game.Players.LocalPlayer.Name ==  "tieuhuygaming" or 
-  game.Players.LocalPlayer.Name ==  "Yuuha_Kin" and
+  game.Players.LocalPlayer.Name ==  "Yuuha_Kin" or 
+  game.Players.LocalPlayer.Name == "KannaNL35" and
     getgenv().WhitelistKey == "4J4zKPjnBC-bTq43afvxh" or
       getgenv().WhitelistKey == "SMnI2UuHnK-yNyp3oanfj"  or 
       getgenv().WhitelistKey == "AHQWhEGVh4-a4y4Eq1K3e" or 
@@ -131,7 +173,8 @@ end)
       getgenv().WhitelistKey == "0k2i3hjfgw-084htkifas" or 
       getgenv().WhitelistKey == "02385rhfsa-32ujfa9sd" or 
       getgenv().WhitelistKey == "083hfdasg-o2391rjf4t" or 
-      getgenv().WhitelistKey == "o4gjfwdfh-23o2rn3jmw"
+      getgenv().WhitelistKey == "o4gjfwdfh-23o2rn3jmw" or 
+      getgenv().WhitelistKey == "kwoa9e21h-2i2hrguas"
        then 
 
   --  game.Players.LocalPlayer:Kick("Error:00x2 [CANNOT WHITELISTED,PLEASE SEND THIS TO DEVELOPER]")
