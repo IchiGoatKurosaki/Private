@@ -165,7 +165,8 @@ end)
      game.Players.LocalPlayer.Name == "thaithien2k3" or
   game.Players.LocalPlayer.Name == "KannaNL35" or 
   game.Players.LocalPlayer.Name == "aoxhssjsy" or 
-   game.Players.LocalPlayer.Name == "derrdtryt" and
+   game.Players.LocalPlayer.Name == "derrdtryt" or 
+game.Players.LocalPlayer.Name == "KhangGM2009" and
     getgenv().WhitelistKey == "4J4zKPjnBC-bTq43afvxh" or
       getgenv().WhitelistKey == "SMnI2UuHnK-yNyp3oanfj"  or 
       getgenv().WhitelistKey == "AHQWhEGVh4-a4y4Eq1K3e" or 
@@ -180,7 +181,8 @@ end)
       getgenv().WhitelistKey == "kwoa9e21h-2i2hrguas" or 
       getgenv().WhitelistKey == "kwoa3521h-2i2hrfg56" or 
  getgenv().WhitelistKey == "324t34f3ref-dwqdwqg32f" or 
-getgenv().WhitelistKey == "dqwf2g23r-344hb54gqwd"
+getgenv().WhitelistKey == "dqwf2g23r-344hb54gqwd" or 
+getgenv().WhitelistKey == "DeveloperKey_KhangGM2009"
        then 
 
   --  game.Players.LocalPlayer:Kick("Error:00x2 [CANNOT WHITELISTED,PLEASE SEND THIS TO DEVELOPER]")
