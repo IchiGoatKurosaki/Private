@@ -153,7 +153,6 @@ end)
  if game.Players.LocalPlayer.Name == "Kietcknss" or 
  game.Players.LocalPlayer.Name == "Tak_Gin" or 
  game.Players.LocalPlayer.Name == "A1tForSmurfing" or 
-  game.Players.LocalPlayer.Name ==  "ablazeabe65" or 
   game.Players.LocalPlayer.Name == "quan2211111"  or
   game.Players.LocalPlayer.Name == "kobiet568"  or 
   game.Players.LocalPlayer.Name ==  "NxHH_Sadboi" or 
@@ -169,7 +168,6 @@ end)
 game.Players.LocalPlayer.Name == "KhangGM2009" and
     getgenv().WhitelistKey == "4J4zKPjnBC-bTq43afvxh" or
       getgenv().WhitelistKey == "SMnI2UuHnK-yNyp3oanfj"  or 
-      getgenv().WhitelistKey == "AHQWhEGVh4-a4y4Eq1K3e" or 
       getgenv().WhitelistKey == "siUiAi07Q6-GokJ2kuRW4" or 
       getgenv().WhitelistKey == "2k723JTASD-0W3JR1USDF" or 
       getgenv().WhitelistKey == "023u2rjfsd-34hixauDIS" or 
@@ -459,5 +457,5 @@ else
   request({Url = webhookUrl, Body = jsonData, Method = "POST", Headers = headers})
 
 
-    game.Players.LocalPlayer:Kick("Error:00x2 [CANNOT WHITELISTED,PLEASE SEND THIS TO DEVELOPER]")
+    game.Players.LocalPlayer:Kick("Phat hien khac account, blacklist script.")
  end
