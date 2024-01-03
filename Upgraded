@@ -164,7 +164,8 @@ end)
      game.Players.LocalPlayer.Name == "thaithien2k3" or
   game.Players.LocalPlayer.Name == "KannaNL35" or 
   game.Players.LocalPlayer.Name == "aoxhssjsy" or 
-   game.Players.LocalPlayer.Name == "derrdtryt" or 
+   game.Players.LocalPlayer.Name == "derrdtryt" or
+ game.Players.LocalPlayer.Name == "nhancute_1" or
 game.Players.LocalPlayer.Name == "KhangGM2009" and
     getgenv().WhitelistKey == "4J4zKPjnBC-bTq43afvxh" or
       getgenv().WhitelistKey == "SMnI2UuHnK-yNyp3oanfj"  or 
